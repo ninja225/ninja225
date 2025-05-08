@@ -53,10 +53,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ninja225/ninja225/output/snake.svg" alt="Snake animation" />
-
-###
